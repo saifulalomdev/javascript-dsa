@@ -47,8 +47,8 @@ As an engineer specializing in **Hono, Cloudflare Workers, and Drizzle ORM**, I 
 
 | Topic | Difficulty | Solution Link | Logic Summary |
 | :--- | :--- | :--- | :--- |
-| Two Sum | Easy | [View Code](./solutions/two-sum.js) | Using Hash Map for O(n) lookup |
-| Max Subarray | Medium | [View Code](./solutions/max-subarray.js) | Sliding window optimization |
+| Two Sum | Easy | [View Code](./solutions/week-1/two-sum.js) | Using Hash Map for O(n) lookup |
+| Max Subarray | Medium | [View Code](./solutions/week-1/max-subarray.js) | Sliding window optimization |
 | ... | ... | ... | ... |
 
 ---
