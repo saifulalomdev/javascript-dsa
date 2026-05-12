@@ -17,8 +17,6 @@ jobs:
 
       - name: Setup pnpm Package Manager
         uses: pnpm/action-setup@v4
-        with:
-          version: 9
 
       - name: Install Dependencies
         run: pnpm install
